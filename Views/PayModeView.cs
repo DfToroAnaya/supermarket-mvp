@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -86,6 +87,30 @@ namespace Supermarket_mvp.Views
             DgPayMode.DataSource = payModeList;
         }
 
-        
-    }   
+        //Patron Singlenton para controlar  solo una instancia del formulario 
+        private static PayModeView instance;
+
+        public static PayModeView GetInstance()
+        {
+            if (instance == null || instance.IsDisposed)
+            {
+                instance = new PayModeView();
+            }
+            else 
+            {
+                if (instance.WindowState == FormWindowState.Minimized) 
+                {
+                    instance.WindowState = FormWindowState.Normal;
+                }
+                instance.BringToFront();
+                
+                
+            }
+            return instance;
+
+            
+        }
+
+
+    }
 }
