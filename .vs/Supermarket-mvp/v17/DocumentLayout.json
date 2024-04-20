@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,8 +42,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayModeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\PayModeRepository.cs",
+              "RelativeDocumentMoniker": "_Repositories\\PayModeRepository.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\PayModeRepository.cs",
+              "RelativeToolTip": "_Repositories\\PayModeRepository.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAuwHIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:42:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "_Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "_Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:41:20.592Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -48,14 +86,14 @@
               "RelativeDocumentMoniker": "Presenters\\PayModePresenter.cs",
               "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\PayModePresenter.cs",
               "RelativeToolTip": "Presenters\\PayModePresenter.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACEAAAAdAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T19:31:31.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -67,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PayModeModel.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\PayModeModel.cs",
               "RelativeDocumentMoniker": "Models\\PayModeModel.cs",
@@ -79,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IPayModeRepository.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IPayModeRepository.cs",
               "RelativeDocumentMoniker": "Models\\IPayModeRepository.cs",
@@ -91,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PayModeView.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
@@ -103,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PayModeView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
