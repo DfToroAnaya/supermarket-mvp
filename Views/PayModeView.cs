@@ -22,6 +22,8 @@ namespace Supermarket_mvp.Views
             AssociateAndRaiseViewEvents();
 
             tabControl1.TabPages.Remove(tabPagePayModeDetail);
+
+            BtnClose.Click += delegate { this.Close(); };
         }
 
         private void AssociateAndRaiseViewEvents()
@@ -90,11 +92,15 @@ namespace Supermarket_mvp.Views
         //Patron Singlenton para controlar  solo una instancia del formulario 
         private static PayModeView instance;
 
-        public static PayModeView GetInstance()
+        public static PayModeView GetInstance(Form parenContainer)
         {
             if (instance == null || instance.IsDisposed)
             {
                 instance = new PayModeView();
+                instance.MdiParent = parenContainer;
+
+                instance.FormBorderStyle = FormBorderStyle.None;
+                instance.Dock = DockStyle.Fill;
             }
             else 
             {

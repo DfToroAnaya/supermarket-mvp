@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\supermarket-mvp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
               "RelativeDocumentMoniker": "Views\\MainView.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PayModeView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
@@ -106,59 +106,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PayModeView.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
               "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs*",
               "RelativeToolTip": "Views\\PayModeView.cs*",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAYwGwAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T18:58:47.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
-              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
-              "RelativeToolTip": "Presenters\\MainPresenter.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T20:26:12.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainView.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
               "RelativeDocumentMoniker": "Views\\MainView.cs",
               "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs*",
               "RelativeToolTip": "Views\\MainView.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T20:17:08.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Properties\\Resources.Designer.cs",
-              "RelativeToolTip": "Properties\\Resources.Designer.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAUwJIAAABQAAAA",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Properties\\Resources.Designer.cs*",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs*",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAcwKAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T20:36:26.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainPresenter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:26:12.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IMainView.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IMainView.cs",
               "RelativeDocumentMoniker": "Views\\IMainView.cs",
@@ -171,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainView.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.Designer.cs",
               "RelativeDocumentMoniker": "Views\\MainView.Designer.cs",
@@ -183,12 +187,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -201,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
