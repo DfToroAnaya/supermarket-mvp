@@ -3,57 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\iprovidersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\iprovidersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\models\\iprovidersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\iprovidersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\models\\providersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\providersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.Providers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -64,6 +13,73 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\providersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\iprovidersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:views\\iprovidersview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\_repositories\\providersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:_repositories\\providersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|c:\\users\\ditor\\downloads\\nueva carpeta\\supermarket-mvp\\presenters\\providerspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\providerspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\models\\iprovidersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\iprovidersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\models\\providersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\providersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.Providers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,10 +100,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5E171D-B5A3-4A06-ADB3-4C2ED8979D1A}|Supermarket-mvp.csproj|solutionrelative:models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,7 +109,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,7 +117,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainPresenter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:26:12.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProvidersView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\ProvidersView.cs",
               "RelativeDocumentMoniker": "Views\\ProvidersView.cs",
@@ -117,81 +142,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProvidersView.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IProvidersView.cs",
-              "RelativeDocumentMoniker": "Views\\IProvidersView.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IProvidersView.cs",
-              "RelativeToolTip": "Views\\IProvidersView.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBsAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ProvidersView.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\ProvidersView.cs",
+              "RelativeDocumentMoniker": "Views\\ProvidersView.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\ProvidersView.cs",
+              "RelativeToolTip": "Views\\ProvidersView.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA4wGkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:44:28.212Z",
+              "WhenOpened": "2024-04-21T01:05:37.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IProvidersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IProvidersRepository.cs",
-              "RelativeDocumentMoniker": "Models\\IProvidersRepository.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IProvidersRepository.cs",
-              "RelativeToolTip": "Models\\IProvidersRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IMainView.cs",
+              "RelativeDocumentMoniker": "Views\\IMainView.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IMainView.cs",
+              "RelativeToolTip": "Views\\IMainView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:43:30.915Z",
+              "WhenOpened": "2024-04-20T20:12:05.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProvidersModel.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\ProvidersModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProvidersModel.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\ProvidersModel.cs",
-              "RelativeToolTip": "Models\\ProvidersModel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "MainView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\MainView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:42:06.049Z",
+              "WhenOpened": "2024-04-20T20:14:22.816Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
+              "RelativeToolTip": "Views\\MainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:17:08.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Providers [Datos]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.Providers.sql",
-              "ToolTip": "dbo.Providers [Datos]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-21T00:40:03.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PayModePresenter.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\PayModePresenter.cs",
-              "RelativeDocumentMoniker": "Presenters\\PayModePresenter.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\PayModePresenter.cs",
-              "RelativeToolTip": "Presenters\\PayModePresenter.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAowGQAAABNAAAA",
+              "DocumentIndex": 6,
+              "Title": "PayModeView.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
+              "RelativeDocumentMoniker": "Views\\PayModeView.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
+              "RelativeToolTip": "Views\\PayModeView.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAcwJ4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:31:31.712Z",
+              "WhenOpened": "2024-04-13T18:58:47.517Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
-              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\MainPresenter.cs",
-              "RelativeToolTip": "Presenters\\MainPresenter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T20:26:12.768Z"
             },
             {
               "$type": "Document",
@@ -199,26 +210,131 @@
               "Title": "PayModeView.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Views\\PayModeView.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\PayModeView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T18:58:41.406Z"
+              "WhenOpened": "2024-04-13T18:58:41.406Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProvidersView.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IProvidersView.cs",
+              "RelativeDocumentMoniker": "Views\\IProvidersView.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IProvidersView.cs",
+              "RelativeToolTip": "Views\\IProvidersView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:44:28.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "PayModeView.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs",
-              "RelativeDocumentMoniker": "Views\\PayModeView.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\PayModeView.cs*",
-              "RelativeToolTip": "Views\\PayModeView.cs*",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAD8AAAAtAAAA",
+              "Title": "ProvidersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\ProvidersRepository.cs",
+              "RelativeDocumentMoniker": "_Repositories\\ProvidersRepository.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\ProvidersRepository.cs",
+              "RelativeToolTip": "_Repositories\\ProvidersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T18:58:47.517Z"
+              "WhenOpened": "2024-04-21T02:16:51.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "ProvidersPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\ProvidersPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\ProvidersPresenter.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\ProvidersPresenter.cs",
+              "RelativeToolTip": "Presenters\\ProvidersPresenter.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:03:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PayModePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\PayModePresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\PayModePresenter.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Presenters\\PayModePresenter.cs",
+              "RelativeToolTip": "Presenters\\PayModePresenter.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwGQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:31:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProvidersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IProvidersRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IProvidersRepository.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IProvidersRepository.cs",
+              "RelativeToolTip": "Models\\IProvidersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:43:30.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPayModeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IPayModeRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IPayModeRepository.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IPayModeRepository.cs",
+              "RelativeToolTip": "Models\\IPayModeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:21:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAcwJ8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:36:26.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProvidersModel.cs",
+              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\ProvidersModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProvidersModel.cs",
+              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\ProvidersModel.cs",
+              "RelativeToolTip": "Models\\ProvidersModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:42:06.049Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Providers [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.Providers.sql",
+              "ToolTip": "dbo.Providers [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-21T00:40:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "PayModeRepository.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\PayModeRepository.cs",
               "RelativeDocumentMoniker": "_Repositories\\PayModeRepository.cs",
@@ -230,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ModelDataValidation.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Common\\ModelDataValidation.cs",
               "RelativeDocumentMoniker": "Common\\ModelDataValidation.cs",
@@ -242,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "PayModeModel.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\PayModeModel.cs",
               "RelativeDocumentMoniker": "Models\\PayModeModel.cs",
@@ -254,54 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Properties\\Resources.Designer.cs",
-              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Properties\\Resources.Designer.cs",
-              "RelativeToolTip": "Properties\\Resources.Designer.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAcwKAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T20:36:26.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainView.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
-              "RelativeDocumentMoniker": "Views\\MainView.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
-              "RelativeToolTip": "Views\\MainView.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T20:17:08.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainView.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs",
-              "RelativeDocumentMoniker": "Views\\MainView.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\MainView.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T20:14:22.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IMainView.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IMainView.cs",
-              "RelativeDocumentMoniker": "Views\\IMainView.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\IMainView.cs",
-              "RelativeToolTip": "Views\\IMainView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T20:12:05.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "MainView.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Views\\MainView.Designer.cs",
               "RelativeDocumentMoniker": "Views\\MainView.Designer.cs",
@@ -309,11 +378,12 @@
               "RelativeToolTip": "Views\\MainView.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T20:37:44.882Z"
+              "WhenOpened": "2024-04-20T20:37:44.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -325,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -337,18 +407,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Supermarket-mvp",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Supermarket-mvp.csproj",
               "RelativeDocumentMoniker": "Supermarket-mvp.csproj",
               "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Supermarket-mvp.csproj",
               "RelativeToolTip": "Supermarket-mvp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-20T19:57:30.118Z"
+              "WhenOpened": "2024-04-20T19:57:30.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\_Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "_Repositories\\BaseRepository.cs",
@@ -357,18 +428,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T07:41:20.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IPayModeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IPayModeRepository.cs",
-              "RelativeDocumentMoniker": "Models\\IPayModeRepository.cs",
-              "ToolTip": "C:\\Users\\ditor\\Downloads\\Nueva carpeta\\supermarket-mvp\\Models\\IPayModeRepository.cs",
-              "RelativeToolTip": "Models\\IPayModeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:21:29.944Z"
             }
           ]
         }

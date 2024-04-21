@@ -91,11 +91,35 @@ namespace Supermarket_mvp.Views
         {
             DgProviders.DataSource = providersList;
         }
+        private static ProvidersView instance;
+
+        public static ProvidersView GetInstance(Form parenContainer)
+        {
+            if (instance == null || instance.IsDisposed)
+            {
+                instance = new ProvidersView();
+                instance.MdiParent = parenContainer;
+
+                instance.FormBorderStyle = FormBorderStyle.None;
+                instance.Dock = DockStyle.Fill;
+            }
+            else
+            {
+                if (instance.WindowState == FormWindowState.Minimized)
+                {
+                    instance.WindowState = FormWindowState.Normal;
+                }
+                instance.BringToFront();
+
+
+            }
+            return instance;
+        }
 
 
 
 
-        private void label2_Click(object sender, EventArgs e)
+            private void label2_Click(object sender, EventArgs e)
         {
 
         }
