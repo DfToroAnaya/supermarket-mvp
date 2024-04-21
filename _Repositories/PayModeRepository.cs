@@ -39,6 +39,7 @@ namespace Supermarket_mvp._Repositories
                 command.Connection = connection;
                 command.CommandText = "DELETE FROM PayMode WHERE Pay_Mode_Id = @id";
                 command.Parameters.Add("@id", SqlDbType.Int).Value = id;
+                command.ExecuteNonQuery();
 
             }
         }
@@ -90,6 +91,7 @@ namespace Supermarket_mvp._Repositories
             var payModeList = new List<PayModeModel>();
             int payModeId = int.TryParse(value, out _) ? Convert.ToInt32(value) : 0;
             string payModeName = value;
+
             using (var connection = new SqlConnection(connectionString))
             using (var command = new SqlCommand())
             {
