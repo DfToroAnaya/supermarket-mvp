@@ -156,5 +156,13 @@ namespace Supermarket_mvp.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        internal static System.Drawing.Bitmap providers
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("providers", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
