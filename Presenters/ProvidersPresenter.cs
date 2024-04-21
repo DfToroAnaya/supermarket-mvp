@@ -45,17 +45,78 @@ namespace Supermarket_mvp.Presenters
 
         private void CancelAction(object? sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            CleanViewFields();
         }
 
         private void SaveProviders(object? sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            var provider = new  ProvidersModel();
+            provider.Id = Convert.ToInt32(view.ProviderId);
+            provider.Name = view.ProviderName;
+            provider.Observation = view.ProviderObservation;
+
+            try
+            {
+                new Common.ModelDataValidation().Validate(provider);
+
+                if (view.IsEdit)
+                {
+                    repository.Edit(provider);
+                    view.Menssage = "Provider edited successfuly";
+                }
+                else
+                {
+                    repository.Add(provider);
+                    view.Menssage = "Provider added successfuly";
+                }
+                view.IsSuccesful = true;
+                loadAllProvidersList();
+                CleanViewFields();
+
+
+            }
+            catch (Exception ex)
+            {
+                view.IsSuccesful = false;
+                view.Menssage = ex.Message;
+            }
+
+
         }
+        private void CleanViewFields()
+        {
+            view.ProviderId = "0";
+            view.ProviderName = "";
+            view.ProviderObservation = "";
+        }
+
 
         private void DeleteSeletedProviders(object? sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            var provider = (ProvidersModel)providersBindingSource.Current;
+
+            view.ProviderId = provider.Id.ToString();
+            view.ProviderName = provider.Name;
+            view.ProviderObservation = provider.Observation;
+
+            view.IsEdit = true;
+
+            try
+            {
+                var providerModel = (ProvidersModel)providersBindingSource.Current;
+
+                repository.Delete(provider.Id);
+                view.IsSuccesful = true;
+                view.Menssage = "Provider deleted successfully";
+                loadAllProvidersList();
+            }
+            catch (Exception ex)
+            {
+                view.IsSuccesful = false;
+                view.Menssage = "An error ocurred, could not delete provider";
+            }
+
+
         }
 
         private void LoadSelectProvidersToEdit(object? sender, EventArgs e)
@@ -65,7 +126,7 @@ namespace Supermarket_mvp.Presenters
 
         private void AddNewProviders(object? sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            view.IsEdit = false;
         }
 
         private void SearchProviders(object? sender, EventArgs e)

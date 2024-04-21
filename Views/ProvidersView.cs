@@ -1,9 +1,11 @@
-﻿using System;
+﻿using Azure.Core;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -14,7 +16,7 @@ namespace Supermarket_mvp.Views
     {
         private bool isEdit;
         private bool isSuccessful;
-        private string message;
+        private string Message;
 
         public ProvidersView()
         {
@@ -22,6 +24,8 @@ namespace Supermarket_mvp.Views
             AssociateAndRaiseViewEvents();
 
             tabControl1.TabPages.Remove(tabPageProvidersDetail);
+
+            BtnProviderClose.Click += delegate { this.Close(); };
 
         }
 
@@ -36,6 +40,58 @@ namespace Supermarket_mvp.Views
                     SearchEvent?.Invoke(this, EventArgs.Empty);
                 }
             };
+            BtnProviderNew.Click += delegate {
+                AddNewEvent?.Invoke(this, EventArgs.Empty);
+
+                tabControl1.TabPages.Remove(tabPageProvidersList);
+                tabControl1.TabPages.Add(tabPageProvidersDetail);
+                tabPageProvidersDetail.Text = "Add New Provider";
+
+            };
+            BtnProviderEdit.Click += delegate {
+                EditEvent?.Invoke(this, EventArgs.Empty);
+
+                tabControl1.TabPages.Remove(tabPageProvidersList);
+                tabControl1.TabPages.Add(tabPageProvidersDetail);
+                tabPageProvidersDetail.Text = "Edit Provider";
+
+            };
+
+            BtnProviderDelete.Click += delegate {
+                DeleteEvent?.Invoke(this, EventArgs.Empty);
+
+                var result = MessageBox.Show(
+                    "Are you sure you want to delete the selected Provider",
+                    "Warning",
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+                if (result == DialogResult.Yes)
+                {
+                    DeleteEvent?.Invoke(this, EventArgs.Empty);
+                    MessageBox.Show(Message);
+                }
+
+            };
+
+            BtnSave.Click += delegate {
+                SaveEvent?.Invoke(this, EventArgs.Empty);
+
+                if (isSuccessful)
+                {
+                    tabControl1.TabPages.Remove(tabPageProvidersDetail);
+                    tabControl1.TabPages.Add(tabPageProvidersList);
+                }
+                MessageBox.Show(Message);
+
+            };
+
+            BtnCancel.Click += delegate {
+                CancelEvent?.Invoke(this, EventArgs.Empty);
+
+                tabControl1.TabPages.Remove(tabPageProvidersDetail);
+                tabControl1.TabPages.Add(tabPageProvidersList);
+            };
+
         }
 
         public string ProviderId
@@ -75,8 +131,8 @@ namespace Supermarket_mvp.Views
         }
         public string Menssage
         {
-            get { return message; }
-            set { message = value; }
+            get { return Message; }
+            set { Message = value; }
 
         }
 
